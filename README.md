@@ -24,7 +24,7 @@
 ## Tool Failure bugs
 | No.  |                           Bug Report Title                             |    Status     |
 | :--: | :---------------------------------------------------------: | :-----------: | 
- 
+|  1  | [Vitis HLS 25.1 always reports an error while synthesizing a simple code.](https://adaptivesupport.amd.com/s/question/0D5Pd00000sKBD9KAO/vitis-hls-251-always-reports-an-error-while-synthesizing-a-simple-code?language=en_US)  | Pending |
 
 ## Performance bugs
 | No.  |                           Bug Report Title                             |    Status     |
