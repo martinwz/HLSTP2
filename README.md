@@ -62,6 +62,6 @@
 ## Performance bugs
 | No.  |                           Bug Report Title                             |    Status     |
 | :--: | :---------------------------------------------------------: | :-----------: | 
- 
+|  2  | [Bambu 24.10 executes BitValueIPA and BitValueOpt without termination.](https://github.com/ferrandi/PandA-bambu/issues/372)  | Pending |
 
 
