@@ -17,7 +17,7 @@
 | :--: | :---------------------------------------------------------:  | :-----------: |
 |  1  | [Issues with Combining Redundant Instructions Leading to Vitis Crash.](https://adaptivesupport.amd.com/s/question/0D5Pd00000p80VVKAY/issues-with-combining-redundant-instructions-leading-to-vitis-crash)  | **Confirmed** |
 |  2  | [Vitis HLS 25.1 stops abnormally after performing if-conversion on hyperblocks.](https://adaptivesupport.amd.com/s/question/0D5Pd00000pD7b0KAC/vitis-hls-251-stops-abnormally-after-performing-ifconversion-on-hyperblocks) | **Confirmed**  |
-|  3  | [Vitis HLS 25.1 may crash at 'Instruction simplification'.](https://adaptivesupport.amd.com/s/question/0D5Pd00000qvftPKAQ/vitis-hls-251-may-crash-at-instruction-simplification)  | Pending |
+|  3  | [Vitis HLS 25.1 may crash at 'Instruction simplification'.](https://adaptivesupport.amd.com/s/question/0D5Pd00000qvftPKAQ/vitis-hls-251-may-crash-at-instruction-simplification)  | **Confirmed** |
 |  4  | [Vitis HLS 25.1 crashes without reporting any warnings or errors.](https://adaptivesupport.amd.com/s/question/0D5Pd00000sCAeFKAW/vitis-hls-251-crashes-without-reporting-any-warnings-or-errors) | Pending  |
  
 
