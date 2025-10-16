@@ -9,7 +9,7 @@
 |  1  | [The simulation output of the code synthesized with Vitis HLS 25.1 is inconsistent with the expectations.](https://adaptivesupport.amd.com/s/question/0D5Pd00000ocbEjKAI/the-simulation-output-of-the-code-synthesized-with-vitis-hls-251-is-inconsistent-with-the-expectations)  | Pending  |
 |  2  | [The code compiled with Clang without errors; however, Vitis HLS 25.1 reported a co-simulation failure.](https://adaptivesupport.amd.com/s/question/0D5Pd00000ocnbSKAQ/the-code-compiled-with-clang-without-errors-however-vitis-hls-251-reported-a-cosimulation-failure)  | Pending |
 |  3  | [CSIM passed, but in the end, Vitis HLS 25.1 reports co-simulation failed.](https://adaptivesupport.amd.com/s/question/0D5Pd00000pEUk3KAG/csim-passed-but-in-the-end-vitis-hls-251-reports-cosimulation-failed)    | Pending  |
- 
+|  4  | [Vitis HLS 25.1 seems unable to synthesize a simple code correctly.](https://adaptivesupport.amd.com/s/question/0D5Pd00000v13CrKAI/vitis-hls-251-seems-unable-to-synthesize-a-simple-code-correctly?language=en_US)    | Pending  |
 
 ## Crash bugs
 
