@@ -29,8 +29,7 @@
 ## Performance bugs
 | No.  |                           Bug Report Title                             |    Status     |
 | :--: | :---------------------------------------------------------: | :-----------: | 
-|  1  | [Vitis HLS 25.1 hangs after the 'Performance' phase of compilation.](https://adaptivesupport.amd.com/s/question/0D5Pd00000s6XWgKAM/vitis-hls-251-hangs-after-the-performance-phase-of-compilation) | Pending |
-|  2  | [Vitis HLS 25.1 hangs on 'Exploring resource sharing.' for days.](https://adaptivesupport.amd.com/s/question/0D5Pd00000uysCTKAY/vitis-hls-251-hangs-on-exploring-resource-sharing-for-days?language=en_US) | Pending | 
+|  1  | [Vitis HLS 25.1 hangs after the 'Performance' phase of compilation.](https://adaptivesupport.amd.com/s/question/0D5Pd00000s6XWgKAM/vitis-hls-251-hangs-after-the-performance-phase-of-compilation) | Pending | 
 
 
 # Bambu bugs
