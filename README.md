@@ -42,6 +42,7 @@
 |  2  | [Bambu may be unable to synthesize the code correctly.](https://github.com/ferrandi/PandA-bambu/issues/370)  | Pending |
 |  3  | [Bambu may generate wrong Verilog code.](https://github.com/ferrandi/PandA-bambu/issues/371)    | Pending  |
 |  4  | [Bambu 24.10 finishes the synthesis process, but the generated HDL code outputs a wrong result.](https://github.com/ferrandi/PandA-bambu/issues/374)    | Pending  |
+|  5  | [Bambu 24.10 may generate HDL code that does not meet expectations.](https://github.com/ferrandi/PandA-bambu/issues/375)    | Pending  |
  
 
 ## Crash bugs
