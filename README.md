@@ -1,5 +1,7 @@
 # HLSTP2
 
+All source code will be provided after our paper is accepted.
+
 # Vitis HLS bugs
 
 ## Miscompile bugs
@@ -24,8 +26,7 @@
 ## Tool Failure bugs
 | No.  |                           Bug Report Title                             |    Status     |
 | :--: | :---------------------------------------------------------: | :-----------: | 
-|  1  | [Vitis HLS 25.1 always reports an error while synthesizing a simple code.](https://adaptivesupport.amd.com/s/question/0D5Pd00000sKBD9KAO/vitis-hls-251-always-reports-an-error-while-synthesizing-a-simple-code?language=en_US)  | Pending |
-|  2  | [This may be a bug in Vitis HLS 25.1 that prevents it from synthesizing a simple piece of code.](https://adaptivesupport.amd.com/s/question/0D5Pd00000y9lABKAY/this-may-be-a-bug-in-vitis-hls-251-that-prevents-it-from-synthesizing-a-simple-piece-of-code?language=en_US)  | **Confirmed** |
+|  1  | [This may be a bug in Vitis HLS 25.1 that prevents it from synthesizing a simple piece of code.](https://adaptivesupport.amd.com/s/question/0D5Pd00000y9lABKAY/this-may-be-a-bug-in-vitis-hls-251-that-prevents-it-from-synthesizing-a-simple-piece-of-code?language=en_US)  | **Confirmed** |
 
 ## Performance bugs
 | No.  |                           Bug Report Title                             |    Status     |
